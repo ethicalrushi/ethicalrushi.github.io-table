@@ -6,7 +6,7 @@ var response = [{
 				    {
 					"name":"Rakesh",
 					"branch":"CSE",
-					"college":"NIT Jalandhar"
+					"college":"COEP"
 				    },
 				    {
 					"name":"Rahul",
